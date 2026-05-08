@@ -2,15 +2,6 @@
 
 My first static website hosted on Amazon S3.
 
-# What I Learned
-
-How to create and manage an S3 bucket
-How public and private access work in S3
-How bucket policy controls public read access
-How to structure a basic static website
-How HTML and CSS work together
-How to deploy a static website to AWS
-
 ## Project Overview
 
 This project is a simple personal landing page built with HTML and CSS, then deployed using Amazon S3 Static Website Hosting.
@@ -52,3 +43,12 @@ aws-static-website/
 │   └── test_public_object.png
 ├── index.html
 └── style.css
+
+# What I Learned
+
+- How to create and manage an S3 bucket
+- How public and private access work in S3
+- How bucket policy controls public read access
+- How to structure a basic static website
+- How HTML and CSS work together
+- How to deploy a static website to AWS
